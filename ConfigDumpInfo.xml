@@ -364,7 +364,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="bd9a3cf5d41d2941b0572f629abbbd1a00000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="e4ad54255b4e0246b8107a3242b83a5b00000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="810768477c17fd489eb5b7d1b459105200000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="82548045b47416488b1732cd47ec652700000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="7cb96ba63a9a794aa75cd53c19712c0000000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="bf284fcba210c6488b33aa359b59fae500000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="ee4bff3fab31a649be6796cc0ea2f8ee00000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="d1995ac3b9cd904cb7baba3cd8373d0300000000"/>
@@ -587,6 +587,7 @@
 		<Metadata name="DataProcessor.ЭлектроннаяПочта.Form.Форма" id="355bef34-2ae5-432b-8f8a-5b8981945188" configVersion="d89d09bd464d2445abef9a32e628d79900000000"/>
 		<Metadata name="DataProcessor.ЭлектроннаяПочта.Form.Форма.Form" id="355bef34-2ae5-432b-8f8a-5b8981945188.0" configVersion="bf44ee80df9d3a479d6dadfd7aa93c1e00000000"/>
 		<Metadata name="DataProcessor.ЭлектроннаяПочта.Help" id="12389170-189d-44b6-8684-62bb2c7998f7.1" configVersion="82dd0ef7c2dd2b4fa3f649bc5ee4bbc000000000"/>
+		<Metadata name="Document.Документ1" id="d680b3c0-fb69-4f8a-bca5-f136a2a07033" configVersion="9ad7006d60531445af934e82b0e0e56f00000000"/>
 		<Metadata name="Document.Заказ" id="45403bd4-e824-44fd-b1e3-50cd17a6a658" configVersion="240ee28c94f2d54d948b3e357b3d27c500000000">
 			<Metadata name="Document.Заказ.Attribute.Валюта" id="0078aeef-66a2-4205-8ef8-c479c569b355"/>
 			<Metadata name="Document.Заказ.Attribute.ВидЦен" id="020de809-65ca-41c7-b0b8-6646b9a55e7d"/>
