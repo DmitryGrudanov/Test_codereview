@@ -154,7 +154,7 @@
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.Form.ФормаВыбора.Form" id="50a41b8a-7749-453e-83d3-e66b634f8603.0" configVersion="6eca116323d2e44eb5a8fa52ce2aeee500000000"/>
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.Help" id="f9e4f68d-971a-4afc-b8d3-3a5efa171085.1" configVersion="7e6474a6ce4d1447af7a2753b82e9f0600000000"/>
 		<Metadata name="Catalog.РасчетныеСчетаКонтрагентов.ObjectModule" id="f9e4f68d-971a-4afc-b8d3-3a5efa171085.0" configVersion="7bf2f6a684684b4f9221aa22cd402ab400000000"/>
-		<Metadata name="Catalog.Регионы" id="2ce6a72f-d84f-4911-b820-dada3614149e" configVersion="459129c3a519af4b9a917ba7ce5be8b500000000"/>
+		<Metadata name="Catalog.Регионы" id="2ce6a72f-d84f-4911-b820-dada3614149e" configVersion="4682dd4ee66fae4faa2b918c9b97a5db00000000"/>
 		<Metadata name="Catalog.Регионы.Help" id="2ce6a72f-d84f-4911-b820-dada3614149e.1" configVersion="02ff5e30d966c144bec706a0c8bedbf700000000"/>
 		<Metadata name="Catalog.Склады" id="60a6f9a9-2886-4126-8867-57019f80c8c2" configVersion="5422438c098d964ea671bb38ed0f3cba00000000">
 			<Metadata name="Catalog.Склады.Attribute.НеИспользовать" id="288a5829-afa5-43f8-b4af-55ef922cce16"/>
