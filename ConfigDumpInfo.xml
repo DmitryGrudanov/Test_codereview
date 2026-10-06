@@ -186,8 +186,8 @@
 		<Metadata name="Catalog.Товары.Form.ФормаСпискаСОстатками" id="70f371c9-ca2a-41c2-b53c-a741d9555b7c" configVersion="2e3ff713af48f04e8a61a2cb9b4b084500000000"/>
 		<Metadata name="Catalog.Товары.Form.ФормаСпискаСОстатками.Form" id="70f371c9-ca2a-41c2-b53c-a741d9555b7c.0" configVersion="d29a64cf7ee0f34c95246b8962f372e200000000"/>
 		<Metadata name="Catalog.Товары.Form.ФормаСпискаСОстатками.Help" id="70f371c9-ca2a-41c2-b53c-a741d9555b7c.1" configVersion="15840644b704f44e8bcb68cb71d881ff00000000"/>
-		<Metadata name="Catalog.Товары.Form.ФормаЭлемента" id="51dd6ffa-9f5e-4e9e-ae99-af3c766a5bf2" configVersion="d3f4ebee57496141a3d498c1b452b5f300000000"/>
-		<Metadata name="Catalog.Товары.Form.ФормаЭлемента.Form" id="51dd6ffa-9f5e-4e9e-ae99-af3c766a5bf2.0" configVersion="7d8b703db9ede64fa4498138a43bdd0300000000"/>
+		<Metadata name="Catalog.Товары.Form.ФормаЭлемента" id="51dd6ffa-9f5e-4e9e-ae99-af3c766a5bf2" configVersion="54de090fd666be4abd979050fcf170be00000000"/>
+		<Metadata name="Catalog.Товары.Form.ФормаЭлемента.Form" id="51dd6ffa-9f5e-4e9e-ae99-af3c766a5bf2.0" configVersion="540cbb69c0c0654391e16d89bf7564b100000000"/>
 		<Metadata name="Catalog.Товары.Help" id="5a77ed34-389a-45e7-85f4-1a2a7b95fd80.1" configVersion="1d0d093d88d2664b8646ad0eed1e632b00000000"/>
 		<Metadata name="Catalog.Товары.ObjectModule" id="5a77ed34-389a-45e7-85f4-1a2a7b95fd80.0" configVersion="184ffdf518ae6147aa84af906742c37100000000"/>
 		<Metadata name="Catalog.Товары.Template.МакетПечатиШтрихкода" id="6b2a9733-ec3b-4d5d-8419-eef7a09ea9a6" configVersion="2b908f23c49abf41baf3edd934bd735000000000"/>

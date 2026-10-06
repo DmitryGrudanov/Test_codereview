@@ -45,6 +45,12 @@
 		<InputField name="Наименование" id="3">
 			<DataPath>Объект.Description</DataPath>
 			<DefaultItem>true</DefaultItem>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Название</v8:content>
+				</v8:item>
+			</Title>
 			<FooterHorizontalAlign>Left</FooterHorizontalAlign>
 			<Wrap>false</Wrap>
 			<BorderColor>style:BorderColor</BorderColor>
@@ -98,6 +104,7 @@
 		</InputField>
 		<InputField name="ШтрихКод" id="11">
 			<DataPath>Объект.Штрихкод</DataPath>
+			<Visible>false</Visible>
 			<FooterHorizontalAlign>Left</FooterHorizontalAlign>
 			<Wrap>false</Wrap>
 			<BorderColor>style:BorderColor</BorderColor>
