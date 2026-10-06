@@ -57,7 +57,7 @@
 		<Metadata name="Catalog.Встречи.Form.ФормаЭлемента.Form" id="018329b9-ae9d-4cd8-9043-6f17914146fd.0" configVersion="dee9d53107f58341a454281b5cf569ac00000000"/>
 		<Metadata name="Catalog.Встречи.ManagerModule" id="00c2f550-b728-41f3-b5f4-3f099adce85c.3" configVersion="c877df46bd79bc408f7c1cc2906d83c800000000"/>
 		<Metadata name="Catalog.Встречи.ObjectModule" id="00c2f550-b728-41f3-b5f4-3f099adce85c.0" configVersion="649f156d7e6d2e43b72b351c31ad9bee00000000"/>
-		<Metadata name="Catalog.ВходящиеПисьма" id="9cdc208c-e97e-41d3-8cd5-8d9b10a66e9c" configVersion="09717379cd376e44a0baf391bdbdb0b100000000">
+		<Metadata name="Catalog.ВходящиеПисьма" id="9cdc208c-e97e-41d3-8cd5-8d9b10a66e9c" configVersion="4d5badf382b5794a8b8e2678e31e055a00000000">
 			<Metadata name="Catalog.ВходящиеПисьма.Attribute.ВидСодержимого" id="1e5aebf6-3bf4-463f-b47b-02e112778d12"/>
 			<Metadata name="Catalog.ВходящиеПисьма.Attribute.Идентификатор" id="37fa094f-8bef-400d-8b99-2925169f8185"/>
 			<Metadata name="Catalog.ВходящиеПисьма.Attribute.Дата" id="83c54f1e-bc4b-4724-bde7-714b46b56479"/>
@@ -67,6 +67,7 @@
 		</Metadata>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента" id="3f834492-7d92-4947-9cdf-ddda5b048c2c" configVersion="c0cd47261a77fd45ab069bea387a894600000000"/>
 		<Metadata name="Catalog.ВходящиеПисьма.Form.ФормаЭлемента.Form" id="3f834492-7d92-4947-9cdf-ddda5b048c2c.0" configVersion="b8aa655ea4dec4488c4a29699a62619f00000000"/>
+		<Metadata name="Catalog.ВходящиеПисьма.ObjectModule" id="9cdc208c-e97e-41d3-8cd5-8d9b10a66e9c.0" configVersion="64b2980920d6b44e93b2b93de858da4600000000"/>
 		<Metadata name="Catalog.ЗначенияХарактеристик" id="d4acaff9-be49-4875-93cf-547d6bd9dbf6" configVersion="fef7a43a4a78244e80dabbb90d87e32c00000000"/>
 		<Metadata name="Catalog.ЗначенияХарактеристик.Help" id="d4acaff9-be49-4875-93cf-547d6bd9dbf6.1" configVersion="bc7e79fd13cb0b41b2fa75be3e3b92cc00000000"/>
 		<Metadata name="Catalog.ИсходящиеПисьма" id="4bcaf0cb-e55d-41e9-915e-84689b3fb76c" configVersion="2d65b1013ca97048ab71a79203c0879b00000000">
