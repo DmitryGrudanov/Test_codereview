@@ -104,7 +104,6 @@
 		</InputField>
 		<InputField name="ШтрихКод" id="11">
 			<DataPath>Объект.Штрихкод</DataPath>
-			<Visible>false</Visible>
 			<FooterHorizontalAlign>Left</FooterHorizontalAlign>
 			<Wrap>false</Wrap>
 			<BorderColor>style:BorderColor</BorderColor>
